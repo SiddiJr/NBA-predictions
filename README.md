@@ -1,14 +1,19 @@
-# Projeto: (substitua pelo nome do projeto quando estiver definido)
+# Projeto: 
+Análise dos dados de desempenho de jogadores e times profissionais da NBA.
 
-## Equipe: (substitua pelo nome da equipe)
+## Equipe: 
+Sin(Args)²
 
-## Descrição: (descreva seu projeto quando estiver definido)
+## Descrição: 
+Agrupar dados criando estatísticas pessoais e de time e analisar essas estatísticas para comparar jogadores, times e dados específicos.
 
-## Membros: (liste os membros informando nome, RA, login gitlab, curso, universidade. siga o exemplo abaixo)
+## Membros:
 
-Nome Membro 01, RA_Membro_01, login_membro_01, BSI, UTFPR
+Antonio Carlos Farias Ferreira, 2413868, BSI, UTFPR
 
-Nome Membro 02, RA_Membro_02, login_membro_02, EC, UTFPR
+Lucas Ricardo Milani Ratusznei, 2402343, lucasricardomilani, BSI, UTFPR
 
-Nome Membro 03, RA_Membro_03, login_membro_03, PPGCA, UTFPR
+Rodrigo Augusto Antunes dos Santos, 2402394, rodrigoaugusto2103, BSI, UTFPR
+
+Sidnei José de Castro Ribeiro Junior, 2402408, siddijr, BSI, UTFPR
 
